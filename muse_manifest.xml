@@ -1,44 +1,43 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.menzel-animations.de" resolutions="1x" timestamp="1491309587278">
-  <folder name="assets">
-    <file name="6971000-lake-dock.jpg" crc="12008734" seo="true" mt="1491294424000"/>
-  </folder>
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="menzel-animations.de" resolutions="1x" timestamp="1491396957143">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3813930854" ref="index"/>
-    <file name="master_a-musters.css" crc="4227645171" ref="index:unsere-kunden"/>
-    <file name="unsere-kunden.css" crc="514928919" ref="unsere-kunden"/>
+    <file name="index.css" crc="268497278" ref="index"/>
+    <file name="impressum.css" crc="4248608945" ref="impressum"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:unsere-kunden"/>
-    <file name="museutils.js" crc="4148063285" ref="index:unsere-kunden"/>
-    <file name="whatinput.js" crc="86476730" ref="index:unsere-kunden"/>
-    <file name="museconfig.js" crc="172512987" ref="index:unsere-kunden"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index:unsere-kunden"/>
-    <file name="webpro.js" crc="3986320349" ref="index"/>
-    <file name="form_check.php" crc="303648844" ref="index"/>
-    <file name="form_process.php" crc="4272079531" ref="index"/>
-    <file name="form-u637.php" crc="4290135377" ref="index"/>
-    <file name="require.js" crc="4159430777" ref="index:unsere-kunden"/>
-    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:impressum"/>
+    <file name="museutils.js" crc="4232573551" ref="index:impressum"/>
+    <file name="whatinput.js" crc="86476730" ref="index:impressum"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:impressum"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:impressum"/>
+    <file name="require.js" crc="4234670167" ref="index:impressum"/>
   </folder>
   <folder name="images">
-    <file name="night stars wallpaper.jpg" crc="509988528" ref="index"/>
-    <file name="u526-4.png" crc="235539947" ref="index"/>
-    <file name="u530-4.png" crc="3904611387" ref="index"/>
-    <file name="u533-4.png" crc="4233684458" ref="index"/>
-    <file name="u536-4.png" crc="4112654368" ref="index"/>
-    <file name="abstract-1.jpg" crc="3758667482" ref="index"/>
-    <file name="untitled-3.png" crc="149303782" seo="true" ref="index"/>
-    <file name="giphy.gif" crc="36082182" ref="index"/>
-    <file name="u1236-4.png" crc="4101635287" ref="index"/>
+    <file name="untitled-3.png" crc="4294250869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u1239_states-r.png" crc="482290065" ref="index"/>
-    <file name="u1254_states-r.png" crc="121561293" ref="index"/>
-    <file name="u1260_states-r.png" crc="303405960" ref="index"/>
-    <file name="u1263_states-r.png" crc="461319868" ref="index"/>
-    <file name="u1266_states-r.png" crc="3790939498" ref="index"/>
+    <file name="maxresdefault.jpg" crc="229753131" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maxresdefault3.jpg" crc="243487688" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maxresdefault4.jpg" crc="4134555816" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u388_states.png" crc="3994068366" ref="index"/>
+    <file name="u388_states-r.png" crc="82261093" ref="index"/>
+    <file name="u392_states.png" crc="229044840" ref="index"/>
+    <file name="u392_states-r.png" crc="78471935" ref="index"/>
+    <file name="u395_states.png" crc="520417644" ref="index"/>
+    <file name="u395_states-r.png" crc="3811682377" ref="index"/>
+    <file name="u712-4.png" crc="4087739329" ref="index"/>
+    <file name="sequenz-01.gif" crc="80787239" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3825120613" seo="true" mt="1491309586223" redirect="true"/>
-  <file name="unsere-kunden.html" crc="215621754" seo="true" mt="1491303244510" redirect="true"/>
+  <file name="index.html" crc="200133218" seo="true" mt="1491390755727" redirect="true"/>
+  <file name="impressum.html" crc="4086652560" seo="true" mt="1491396936166" redirect="true"/>
 </manifest>

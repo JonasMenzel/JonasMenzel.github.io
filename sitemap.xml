@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.menzel-animations.de/index.html</loc>
-    <lastmod>2017-04-04</lastmod>
+    <loc>http://menzel-animations.de/index.html</loc>
+    <lastmod>2017-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://menzel-animations.de/images/untitled-3.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://www.menzel-animations.de/unsere-kunden.html</loc>
-    <lastmod>2017-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.menzel-animations.de/images/untitled-3.png</loc>
-    <lastmod>2017-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.menzel-animations.de/assets/6971000-lake-dock.jpg</loc>
-    <lastmod>2017-04-04</lastmod>
+    <loc>http://menzel-animations.de/impressum.html</loc>
+    <lastmod>2017-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
